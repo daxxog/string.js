@@ -28,7 +28,7 @@ Why wasn't I happy with any of them? They are all static methods that don't seem
 Installation
 ------------
 
-    npm install --save string
+    npm install https://github.com/daxxog/string.js/tarball/fork1
 
 
 
